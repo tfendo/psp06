@@ -1,0 +1,1 @@
+Esto es un texto de prueba para mostrar en la consola de salida del IDE Netbeans, una vez que el usuario solicita ver el contenido de este archivo.
